@@ -4,6 +4,7 @@
 	"description": "ApPlIeS sArCaSm To YoUr TeXt",
 	"version": "0.0.1",
 	"license": "see LICENSE",
+	"preview": true,
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/mutecipher/vscode-sarcasm"
